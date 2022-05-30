@@ -1,0 +1,14 @@
+let x1 = 1
+let letter = a 
+let myname = "Eddie Junior" 
+let stopper = "Please stop"
+
+if (i == 1){
+    x + y = 3
+}
+else{
+    do {
+        z = 3 * x
+    }stop
+}
+end
